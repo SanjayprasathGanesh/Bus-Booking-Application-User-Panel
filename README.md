@@ -1,16 +1,1 @@
-# redbus
-
-Final Sem Project
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The Bus Booking user app provides a seamless experience for travelers to conveniently book their preferred seats with their chosen bus operator. Users can effortlessly search for buses, book tickets, and make secure payments. Additionally, they have the flexibility to cancel tickets, with refunded amounts credited to their in-app wallets for future use. The app also offers a journey tracking feature, allowing users to monitor their previous trips and plan future ones with ease.
